@@ -1,3 +1,2 @@
-Python es un lenguaje de programaciÛn interpretado cuya filosofÌa hace hincapiÈ en una sintaxis que favorezca un cÛdigo legible.
-
-Se trata de un lenguaje de programaciÛn multiparadigma, ya que soporta orientaciÛn a objetos, programaciÛn imperativa y, en menor medida, programaciÛn funcional. Es un lenguaje interpretado, usa tipado din·mico y es multiplataforma.
+Python es un lenguaje de programaci√≥n interpretado cuya filosof√≠a hace hincapi√© en una sintaxis que favorezca un c√≥digo legible.
+Se trata de un lenguaje de programaci√≥n multiparadigma, ya que soporta orientaci√≥n a objetos, programaci√≥n imperativa y, en menor medida, programaci√≥n funcional. Es un lenguaje interpretado, usa tipado din√°mico y es multiplataforma.
